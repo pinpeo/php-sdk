@@ -37,11 +37,11 @@ composer install
 
 ## Instalación por Github
 Puede descargar alguna de las versiones que hemos publicado aquí:
-- [Versiones publicadas en GitHub](https://github.com/pinpeo/pinpeo-php/releases)
+- [Versiones publicadas en GitHub](https://github.com/pinpeo/php-sdk/releases)
 
 O si lo desea puede clonar nuestro repositorio de la siguiente forma:
 
 ```bash
 # Repositorio en su estado actual (Puede ser una versión inestable)
-git clone https://github.com/pinpeo/pinpeo-php.git
+git clone https://github.com/pinpeo/php-sdk.git
 ```
